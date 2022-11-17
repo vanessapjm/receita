@@ -1,2 +1,2 @@
-# https://github.com/vanessapjm/receita.git  receita
+# https://vanessapjm.github.io/receita
 receitas -html/css
